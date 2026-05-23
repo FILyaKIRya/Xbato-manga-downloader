@@ -329,13 +329,10 @@ DELAY_BETWEEN_IMAGES = 0.5    # Пауза между изображениями
 ### Project Structure / Структура проекта
 
 ```
-xbato-downloader/
+Xbato-manga-downloader/
 ├── xbato_downloader_interactive.py  # Main script with UI
-├── xbato_downloader.py              # Legacy version
 ├── README.md                        # This file
 ├── requirements.txt                 # Python dependencies
-├── ИНСТРУКЦИЯ.txt                   # Russian quick guide
-└── XBATO_README.md                  # Detailed documentation
 ```
 
 ### Code Structure / Структура кода
