@@ -28,8 +28,8 @@ A Python script to download manga from Xbato.co.uk (and its mirrors). Features a
 
 1. **Clone the repository:**
 ```bash
-https://github.com/FILyaKIRya/Xbato-manga-downloader.git
-cd xbato-downloader
+git clone https://github.com/FILyaKIRya/Xbato-manga-downloader.git
+cd Xbato-manga-downloader
 ```
 
 2. **Install dependencies:**
@@ -179,8 +179,8 @@ Python-скрипт для скачивания манги с сайта Xbato.c
 
 1. **Клонируйте репозиторий:**
 ```bash
-https://github.com/FILyaKIRya/Xbato-manga-downloader.git
-cd xbato-downloader
+git clone https://github.com/FILyaKIRya/Xbato-manga-downloader.git
+cd Xbato-manga-downloader
 ```
 
 2. **Установите зависимости:**
